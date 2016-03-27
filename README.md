@@ -32,7 +32,7 @@ Yeoman has a heart of gold. He&#39;s a person with feelings and opinions, but he
 [Yeoman](https://npmjs.org/package/yo) and [Generator-simple-package](https://npmjs.org/package/generator-simple-package)
 
 ## License
-MIT © [NghiaTTran]()
+MIT © [NghiaTTran](https://github.com/nghiattran)
 
 [npm-image]: https://badge.fury.io/js/get-package-json.svg
 [npm-url]: https://npmjs.org/package/get-package-json
